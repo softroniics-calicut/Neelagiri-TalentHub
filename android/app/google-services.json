@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286382179918",
+    "project_id": "fir-a1538",
+    "storage_bucket": "fir-a1538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286382179918:android:aab79ff0c176e9fc26a51f",
+        "android_client_info": {
+          "package_name": "com.example.talenthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzHbujlEOm_RjjwT6kaRuy2Z7xoiDcRbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
